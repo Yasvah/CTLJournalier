@@ -1,0 +1,14 @@
+<AllDossier>
+  <Dossier id="7d42d9ec-750c-43a2-9a15-fc2e1948205f">
+    <CheminDossier>\\w08r2-data1\Serta\PNEVMATIKA SERTA\_TRANSFERTS\LogistiqSertaToPns</CheminDossier>
+  </Dossier>
+  <Dossier id="00000000-0000-0000-0000-000000000000">
+    <CheminDossier>\\w08r2-blackbird\Deploiement\Lotus Notes</CheminDossier>
+  </Dossier>
+  <Dossier id="294b252a-d30d-4204-b4e3-0b7322999612">
+    <CheminDossier>\\w08r2-data1\Serta\PNEVMATIKA SERTA\_TRANSFERTS\LogistiqSertaToPns</CheminDossier>
+  </Dossier>
+  <Dossier id="98c426fa-6842-492f-889a-17c65bf9fbcc">
+    <CheminDossier>\\w08r2-data1\Serta\PNEVMATIKA SERTA\_TRANSFERTS\IT_PnsToSerta</CheminDossier>
+  </Dossier>
+</AllDossier>
